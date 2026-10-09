@@ -1,0 +1,5 @@
+pandas
+anthropic>=1.11.0
+python-dotenv>=1.2.4
+scikit-learn>=1.9.1
+streamlit>=1.65.0
